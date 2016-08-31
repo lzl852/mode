@@ -1,0 +1,56 @@
+{
+  "/index.html": {
+    "main": [],
+    "js": [
+      {
+        "dest": "/static/js/62c998ea0d38b56ea21da314a9ae3166.js",
+        "deps": [
+          "../webroot-dev/js/jquery.js"
+        ]
+      },
+      {
+        "dest": "/static/js/9634e20db2e3811737335f8605ab33dd.js",
+        "deps": [
+          "../webroot-dev/js/lottery.js"
+        ]
+      }
+    ],
+    "css": [
+      {
+        "dest": "/static/css/730709f293c6b7eed4c663e0defc809f.css",
+        "deps": [
+          {
+            "src": "../webroot-dev/style/base.css",
+            "res": [
+              "../webroot-dev/images/title_bg.png",
+              "../webroot-dev/images/icon_gy.png",
+              "../webroot-dev/images/coupon_bg.png"
+            ]
+          }
+        ]
+      }
+    ],
+    "res": [
+      "../webroot-dev/images/logo.png",
+      "../webroot-dev/images/banner.jpg",
+      "../webroot-dev/images/turntable.png",
+      "../webroot-dev/images/prizeresult_cdb.png",
+      "../webroot-dev/images/prizeresult_ip.png",
+      "../webroot-dev/images/prizeresult_2.png",
+      "../webroot-dev/images/prizeresult_dsn.png",
+      "../webroot-dev/images/prizeresult_up.png",
+      "../webroot-dev/images/prizeresult_10.png",
+      "../webroot-dev/images/prizeresult_hb20.png",
+      "../webroot-dev/images/prizeresult_5.png",
+      "../webroot-dev/images/jp1.png",
+      "../webroot-dev/images/jp2.png",
+      "../webroot-dev/images/jp3.png",
+      "../webroot-dev/images/jp4.png",
+      "../webroot-dev/images/kong.png",
+      "../webroot-dev/images/jp5.png",
+      "../webroot-dev/images/jp6.png",
+      "../webroot-dev/images/jp7.png",
+      "../webroot-dev/images/jp8.png"
+    ]
+  }
+}
